@@ -25,7 +25,7 @@
 <!-- -------------------------- -->
 <!-- !!! CHANGE COLOR BELOW !!! -->
 
-<div class="card purple">
+<div class="card green">
 
 <!-- !!! CHANGE COLOR ABOVE !!! -->
 <!-- -------------------------- -->
@@ -69,7 +69,7 @@
           <td><?php echo $_SERVER['SERVER_ADDR']; ?></td>
         </tr>
         <tr>
-          <td>Organization</td>
+          <td>Cloud Provider</td>
           <td>
                 <?php
                         $url = "http://ipinfo.io/org";
